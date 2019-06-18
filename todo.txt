@@ -1,0 +1,10 @@
+Write ansible playbook to install server
+- install mediawiki
+- install mysql
+- install php
+
+Install dropbox for linux 
+Develop backup plan
+Test backup/rebuild procedure
+Add users/security
+
