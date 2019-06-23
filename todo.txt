@@ -2,9 +2,11 @@ Write ansible playbook to install server
 - install mediawiki
 - install mysql
 - install php
+- Install dropbox for linux
+- Develop filesytem backup plan
 
-Install dropbox for linux 
-Develop backup plan
+Develop database backup plan
+Develop XML backup plan
 Test backup/rebuild procedure
 Add users/security
 
